@@ -1,0 +1,27 @@
+*{
+    margin: 0px auto;
+}
+
+.pan{
+    height: 45px;
+    width: 350px;
+    background-color: #deb887;
+}
+
+.salchicha{
+    height: 40px;
+    width: 390px;
+    background-color: #a52b2a;
+    border-radius: 20px;
+}
+
+#pan-arriba{
+    border-radius: 50px 50px 10px 10px;
+    margin-top: 100px;
+    border-bottom: 7px solid #b5956c;
+}
+
+#pan-abajo{
+    border-radius: 10px 10px 50px 50px;
+    border-top: 7px solid #b5956c;
+}
